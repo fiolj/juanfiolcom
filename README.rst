@@ -1,6 +1,6 @@
-Juan Fiol's Personal web page 
-------------------------------
-
+=================
+ Juan's Web Page
+=================
 
 Files used to generate the webpage to be located at: 
 
